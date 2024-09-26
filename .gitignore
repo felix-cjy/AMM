@@ -9,6 +9,7 @@ out/
 
 # Docs
 docs/
+./src/WTF_AMM.sol
 
 # Dotenv file
 .env
