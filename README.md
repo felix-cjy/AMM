@@ -33,8 +33,7 @@ Suite result: ok. 10 passed; 0 failed; 0 skipped; finished in 11.51ms (49.66ms C
 | weth                     | 2404            | 2404   | 2404   | 2404   | 1       |
 
 
-| src/SimpleToken.sol:SimpleToken contract |                 |       |        |
- |         |
+| src/SimpleToken.sol:SimpleToken contract |                 |       |        |       |         |
 |------------------------------------------|-----------------|-------|--------|-------|---------|
 | Deployment Cost                          | Deployment Size |       |        |       |         |
 | 580219                                   | 3121            |       |        |       |         |
